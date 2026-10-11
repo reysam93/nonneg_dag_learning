@@ -4,9 +4,8 @@ Code for **Exploiting Non-Negativity in DAG Structure Learning**, by Samuel Rey,
 Madeline Navarro, Santiago Segarra, and Gonzalo Mateos.
 
 **Paper:** [Exploiting Non-Negativity in DAG Structure Learning](https://arxiv.org/abs/2605.19947).
-The linked preprint is an earlier version; this repository is being updated for
-the TSP manuscript. The following citation uses the updated manuscript's author
-list and the existing arXiv identifier:
+
+If you use this code, please cite:
 
 ```bibtex
 @misc{rey2026exploiting,
