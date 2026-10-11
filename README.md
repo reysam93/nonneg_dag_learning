@@ -5,13 +5,13 @@ Madeline Navarro, Santiago Segarra, and Gonzalo Mateos.
 
 **Paper:** [Exploiting Non-Negativity in DAG Structure Learning](https://arxiv.org/abs/2605.19947).
 The linked preprint is an earlier version; this repository is being updated for
-the TSP manuscript. The following citation refers to the currently available
-preprint:
+the TSP manuscript. The following citation uses the updated manuscript's author
+list and the existing arXiv identifier:
 
 ```bibtex
 @misc{rey2026exploiting,
   title         = {Exploiting Non-Negativity in DAG Structure Learning},
-  author        = {Samuel Rey and Madeline Navarro and Gonzalo Mateos},
+  author        = {Samuel Rey and Madeline Navarro and Santiago Segarra and Gonzalo Mateos},
   year          = {2026},
   eprint        = {2605.19947},
   archivePrefix = {arXiv},
